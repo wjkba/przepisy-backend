@@ -5,7 +5,9 @@
 [![uvicorn - 0.29.0](https://img.shields.io/badge/uvicorn-0.29.0-499848)](https://www.uvicorn.org/)
 
 
-Aplikacja została zbudowana przy użyciu FastAPI, nowoczesnego, szybkiego i wysoko wydajnego frameworka webowego do budowania interfejsów API z Pythonem 3.7+ opartego na standardowych wskazówkach typów Pythona.
+Aplikacja została zbudowana przy użyciu FastAPI, nowoczesnego, szybkiego i wysoko wydajnego frameworka webowego do budowania interfejsów API z Pythonem 3.7.\
+\
+Program umożliwia komunikację między frontendem aplikacji a serwerem. Dzięki temu użytkownicy mogą wygodnie zarządzać przepisami, takimi jak pobieranie, dodawanie, aktualizacja, usuwanie i zapisywanie ulubionych przepisów, poprzez interakcję z aplikacją.
 
 ## Funkcje 
 - Uwierzytelnianie i autoryzacja użytkowników przy użyciu JWT
