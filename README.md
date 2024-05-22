@@ -4,10 +4,10 @@
 [![FastAPI - 0.110.2](https://img.shields.io/badge/FastAPI-0.110.2-009688)](https://fastapi.tiangolo.com/)
 [![uvicorn - 0.29.0](https://img.shields.io/badge/uvicorn-0.29.0-499848)](https://www.uvicorn.org/)
 
-## 
+
 Aplikacja została zbudowana przy użyciu FastAPI, nowoczesnego, szybkiego i wysoko wydajnego frameworka webowego do budowania interfejsów API z Pythonem 3.7+ opartego na standardowych wskazówkach typów Pythona.
 
-## Funckje 
+## Funkcje 
 - Uwierzytelnianie i autoryzacja użytkowników przy użyciu JWT
 - Bezpieczne hashowanie haseł
 - Obsługa przesyłania plików dla obrazów przepisów
