@@ -28,9 +28,33 @@ Dzięki temu backend aplikacji umożliwia komunikację między frontendem a serw
 - **aiofiles**: Biblioteka do asynchronicznej obsługi operacji plikowych.
 - **JWT**: Tokeny JSON Web dla bezpiecznego uwierzytelniania i wymiany informacji.
 
-## Instalacja
-
 ## Konfiguracja
+Wymagana jest wcześniejsza instalacja programów umożliwiających działanie bazy danych MongoDB
+- [MongoDB Shell](https://www.mongodb.com/try/download/shell) 
+- [MongoDB Community Server](https://www.mongodb.com/try/download/community)
+- [MongoDB Compass](https://www.mongodb.com/products/tools/compass)
+<br/>
+
+1. Pobierz repozytorium
+2. W aplikacji MongoDB Compass stwórz nową baze danych o nazwie `szpinak_db`
+3. Stwórz dwie kolekcje `recipes` i `users`
+4. Zaimportuj dane z folderu `mongodb_data`
+5. Przy użyciu konsoli wejdź do ścieżki `backend`, zainstaluj pipenv i wymagane zależności
+```
+pip install pipenv
+```
+```
+pipenv install
+```
+6. Uruchom server przy użyciu uvicorn na porcie 8000
+```
+pipenv shell
+```
+```
+uvicorn main:app --reload --port 8000
+```
+
+dokumentacja dostępna pod adresem http://127.0.0.1:8000/docs
 
 ## Żądania HTTP
 

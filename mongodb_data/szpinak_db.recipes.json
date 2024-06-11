@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6626a145de147f0c49f531f4"
+  },
+  "id": 1,
+  "author": "szpinak",
+  "title": "Szpinak dobry",
+  "image": "https://images.pexels.com/photos/2325843/pexels-photo-2325843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description": "lorem ipsum dolor sit amet",
+  "views": 120,
+  "rating": 5,
+  "time": "2 hours",
+  "ingredients": [
+    "8 oz (225g) pasta (such as penne or fusilli)",
+    "2 tablespoons olive oil",
+    "3 cloves garlic, minced",
+    "1 small onion, finely chopped",
+    "8 oz (225g) mushrooms, sliced",
+    "4 cups fresh spinach, washed and chopped",
+    "1 cup heavy cream"
+  ],
+  "instructions": "",
+  "date": "2024-04-17"
+},
+{
+  "_id": {
+    "$oid": "6626a145de147f0c49f531f5"
+  },
+  "id": 2,
+  "author": "szpinak",
+  "title": "Miska szpinak",
+  "image": "https://images.pexels.com/photos/1751149/pexels-photo-1751149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description": "lorem ipsum dolor sit amet",
+  "views": 90,
+  "rating": 4,
+  "time": "30 minutes",
+  "ingredients": [
+    "8 oz (225g) pasta (such as penne or fusilli)",
+    "2 tablespoons olive oil",
+    "8 oz (225g) mushrooms, sliced",
+    "4 cups fresh spinach, washed and chopped",
+    "1 cup heavy cream",
+    "1/2 cup grated Parmesan cheese",
+    "Red pepper flakes (optional, for added heat)",
+    "Fresh parsley, chopped (for garnish)"
+  ],
+  "instructions": "",
+  "date": "2024-04-18"
+},
+{
+  "_id": {
+    "$oid": "6626a145de147f0c49f531f6"
+  },
+  "id": 3,
+  "author": "szpinak",
+  "title": "Tosty szpinak",
+  "image": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description": "lorem ipsum dolor sit amet",
+  "views": 50,
+  "rating": 2,
+  "time": "10 minutes",
+  "ingredients": [
+    "8 oz (225g) pasta (such as penne or fusilli)",
+    "3 cloves garlic, minced",
+    "8 oz (225g) mushrooms, sliced",
+    "4 cups fresh spinach, washed and chopped",
+    "1 cup heavy cream",
+    "Salt and pepper to taste",
+    "Red pepper flakes (optional, for added heat)"
+  ],
+  "instructions": "",
+  "date": "2024-04-19"
+},
+{
+  "_id": {
+    "$oid": "6626a145de147f0c49f531f7"
+  },
+  "id": 4,
+  "author": "szpinak",
+  "title": "Szpinak kurczak",
+  "image": "https://images.pexels.com/photos/718742/pexels-photo-718742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "description": "lorem ipsum dolor sit amet",
+  "views": 70,
+  "rating": 5,
+  "time": "1 hour",
+  "ingredients": [
+    "1 small onion, finely chopped",
+    "8 oz (225g) mushrooms, sliced",
+    "4 cups fresh spinach, washed and chopped",
+    "1 cup heavy cream",
+    "1/2 cup grated Parmesan cheese",
+    "Salt and pepper to taste"
+  ],
+  "instructions": "",
+  "date": "2024-04-20"
+}]

@@ -1,0 +1,74 @@
+[{
+  "_id": {
+    "$oid": "663e2e1cd155633b204f90ba"
+  },
+  "username": "szpinak",
+  "password": "$2b$12$fF2H8n0f3mITpGlYybl5yeO5619CFDkP1zIRxv08Gv8YRKLIJGI8G",
+  "saved": [
+    {
+      "_id": {
+        "$oid": "6626a145de147f0c49f531f5"
+      },
+      "id": 2,
+      "author": "szpinak",
+      "title": "Miska szpinak",
+      "image": "https://images.pexels.com/photos/1751149/pexels-photo-1751149.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "lorem ipsum dolor sit amet",
+      "views": 90,
+      "rating": 4,
+      "time": "30 minutes",
+      "ingredients": "szpinak, sol",
+      "instructions": "",
+      "date": "2024-04-18"
+    },
+    {
+      "_id": {
+        "$oid": "6626a145de147f0c49f531f6"
+      },
+      "id": 3,
+      "author": "szpinak",
+      "title": "Tosty szpinak",
+      "image": "https://images.pexels.com/photos/1351238/pexels-photo-1351238.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "lorem ipsum dolor sit amet",
+      "views": 50,
+      "rating": 2,
+      "time": "10 minutes",
+      "ingredients": "szpinak, sol",
+      "instructions": "",
+      "date": "2024-04-19"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "663e2ea2d155633b204f90bb"
+  },
+  "username": "user",
+  "password": "$2b$12$J6/FnxcdS2t1h56mbFEvT.y2vv6sTwv68DNW2EU//tH9zJv8VHMDq",
+  "saved": [
+    {
+      "_id": {
+        "$oid": "6626a145de147f0c49f531f4"
+      },
+      "id": 1,
+      "author": "szpinak",
+      "title": "Szpinak dobry",
+      "image": "https://images.pexels.com/photos/2325843/pexels-photo-2325843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "lorem ipsum dolor sit amet",
+      "views": 120,
+      "rating": 5,
+      "time": "2 hours",
+      "ingredients": [
+        "8 oz (225g) pasta (such as penne or fusilli)",
+        "2 tablespoons olive oil",
+        "3 cloves garlic, minced",
+        "1 small onion, finely chopped",
+        "8 oz (225g) mushrooms, sliced",
+        "4 cups fresh spinach, washed and chopped",
+        "1 cup heavy cream"
+      ],
+      "instructions": "",
+      "date": "2024-04-17"
+    }
+  ]
+}]
