@@ -93,4 +93,26 @@
   ],
   "instructions": "",
   "date": "2024-04-20"
+},
+{
+  "_id": {
+    "$oid": "666845d7850b7162b81fbc87"
+  },
+  "id": 5,
+  "author": "szpinak",
+  "title": "Szpinak pyszny",
+  "image": "https://images.unsplash.com/photo-1580910365203-91ea9115a319?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "description": "lorem ipsum dolor sit amet",
+  "views": 10,
+  "rating": 5,
+  "time": "1 hour",
+  "ingredients": [
+    "jajko",
+    "4 cups fresh spinach, washed and chopped",
+    "1 cup heavy cream",
+    "1/2 cup grated Parmesan cheese",
+    "Salt and pepper to taste"
+  ],
+  "instructions": "",
+  "date": "2024-04-20"
 }]
