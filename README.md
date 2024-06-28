@@ -1,5 +1,7 @@
 # przepisy-backend
 
+Metody i techniki programowania - Semestr letni 2023/2024
+
 [![Python - 3.12](https://img.shields.io/badge/Python-3.12-3776AB)](https://www.python.org/)
 [![FastAPI - 0.110.2](https://img.shields.io/badge/FastAPI-0.110.2-009688)](https://fastapi.tiangolo.com/)
 [![uvicorn - 0.29.0](https://img.shields.io/badge/uvicorn-0.29.0-499848)](https://www.uvicorn.org/)
