@@ -79,7 +79,7 @@ dokumentacja dostępna pod adresem http://127.0.0.1:8000/docs
 - `GET /api/recipes/{username}` - Pobiera przepisy utworzone przez konkretnego użytkownika.
 - `GET /api/saved-recipes` - Pobiera przepisy zapisane przez bieżącego użytkownika.
 
-### Przepisy CUD (Create, Update, Delete)
+### Przepisy CRUD (Create, Read, Update, Delete)
 
 - `POST /api/recipe` - Tworzy nowy przepis.
 - `PUT /api/recipe/{id}` - Aktualizuje istniejący przepis (obecnie niezaimplementowane).
